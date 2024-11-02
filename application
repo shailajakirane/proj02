@@ -1,0 +1,3 @@
+application.properties
+dbuser=system
+dbpwd=tiger
